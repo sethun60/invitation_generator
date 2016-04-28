@@ -1,0 +1,1 @@
+This simple app convets a list of attendees of an event into a personal invitation.
